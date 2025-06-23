@@ -6,7 +6,7 @@ function Mid1(){
         <p class="h1Img1p">Flipmart Hot Collection</p>
         <p class="pImg1">Pellentesque habitant morbi tristque </p>
         <p class="pImg1">senectus el nelus el maslesusada</p>
-        <a class="aImg1" href="https://www.google.com" > Shrunow Now </a>
+        <a class="aImg1" href="https://www.google.com" > Shop Now </a>
     </div>
     );
 }
