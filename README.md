@@ -8,6 +8,7 @@ Containing:
 
 ## Installation
 1. Clone this repository.
-2. Run `npm install`.
-3. Run `npm run dev` to start the project.
+2. Please move to the right through 'cd' command
+3. Run `npm install`.
+4. Run `npm run dev` to start the project.
 
