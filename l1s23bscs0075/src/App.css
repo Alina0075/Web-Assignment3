@@ -973,7 +973,7 @@
             background-color: white;
             display: flex;
             flex-direction: column;
-            height: auto;
+            height: 30%;
             width: 16%;
             min-width: 200px;
             max-width: 200px;
