@@ -1,6 +1,6 @@
 # Assignemnt 3 using React
 
-Asignemnt 3 using the last assignment css and html design in the react app
+Assignemnt 3 using the last assignment css and html design in the react app
 
 Containing:
  
